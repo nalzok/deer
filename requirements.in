@@ -1,0 +1,15 @@
+numpy
+scipy
+jax[cuda11_pip]
+flax
+equinox
+optax
+torch
+pytorch_lightning
+imageio
+Pillow
+matplotlib
+tensorboard
+tensorboardX
+tqdm
+pytest
